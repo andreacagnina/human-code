@@ -9,11 +9,11 @@ Dopo averle sfilate dal pacchetto, me le passo tra le mani controllando nell’a
 4- Apro la bustina con le figurine
 5- Estraggo le figurine dalla busta
 6- Guardo tutte le figurine
-6.1- Ho trovato la figurina rara?
+6.1- Ho trovato la figurina rara? <!--PUNTO DECISIONALE-->
 6.1.1- GIUBILO, FESTA, GAUDIO, la inserisco nello slot speciale dell'album
 6.1.2- MANNAGGIA non ho trovato la carta
 7- Controllo sull'album se ho le figurine che ho guardato
-7.1- MI MANCA?
+7.1- MI MANCA? <!--PUNTO DECISIONALE-->
 7.1.1- si, inserisco le figurine nuove nell'album
 7.1.2- no, la metto in un mazzetto a parte
 8- Stilo una lista delle carte che ancora mi mancano per lo scambio di sabato
